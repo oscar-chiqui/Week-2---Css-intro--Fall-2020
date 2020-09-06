@@ -1,0 +1,9 @@
+/* adding styles of your choice to your web page. Create a file called style.css in the same directory as favorites.html, 
+and use a link in favorites.html to include your styles.*/
+body {
+    background-color: lightblue;
+  }
+
+  h1 {
+    color: orange;   
+  }
