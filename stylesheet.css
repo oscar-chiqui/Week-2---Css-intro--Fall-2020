@@ -1,5 +1,26 @@
 /* adding styles of your choice to your web page. Create a file called style.css in the same directory as favorites.html, 
 and use a link in favorites.html to include your styles.*/
+.jumbotron {
+  background-color:orange;
+}
+/*The google fonts css styles applied to web page */
+body{
+  font-family: 'Bebas Neue', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 20px;
+}
+
+/*Apply style(s) of your choice to the page-title h1. 
+Make sure these styles are not applied to the other h1 element.*/
+
+#page-title {
+  background:green;
+  color: black;
+}
+
+/*Make the background your favorite color. Hint: apply the style to the body element. 
+If desired, change the color and font of the body text too.*/
+
 body {
     background-color: lightblue;
   }
@@ -7,3 +28,87 @@ body {
   h1 {
     color: orange;   
   }
+
+/*Make sure all of your section div elements have the same class "favorite-section". 
+Use margins, padding, and borders to arrange and space these sections.*/
+
+#favorite-section {
+border: 1px brown;
+box-shadow: 2px 2px gray;
+margin: 5px;
+padding: 5px;
+}
+/*Add the class attribute "section-header" to each of your section h2 headers.
+ Write CSS selector and styles to apply a style of your choice to the section headers.*/
+
+#section-header {
+  font-weight: bold;
+  color: darkcyan;
+}
+
+#section-header-2 {
+  font-weight: bold;
+  color: darkcyan;
+}
+
+/*Use CSS to select your favorite-movie-title span to by the ID. \
+Use attributes to display the name of the movie in italic text, and a different color to the paragraph text. */
+
+
+#favorite-movie-title {
+  font-weight: bold;
+  color: red;
+
+}
+
+/*Use CSS to select your favorite-music-artist-name span by the ID. 
+Display the name of the band in bold text and a different color to the paragraph text. */
+
+#favorite-music-name {
+  font-weight: bold;
+  color: purple;
+}
+
+/*Use CSS to select your most-favorite-food li element. 
+Add a style of your choice to this element.*/
+
+#most-favorite-food {
+  font-weight: bold;
+  color: green;
+}
+
+/*Use CSS to select your images by the class favorite-image. Add one (or more) of these styles
+(rounded corners, filters, centering, responsive to page size, apply style on hover) */
+
+#favorite-image {
+  font-weight: bold;
+  color: brown;
+}
+
+a:hover {
+  color: red;
+}
+
+/*Apply styles to your table - display the header <th> elements in one color text, 
+and the body <td> elements in a different color. Add a border.*/
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+  
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid black;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
