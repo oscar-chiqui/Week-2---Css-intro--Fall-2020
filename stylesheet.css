@@ -89,9 +89,8 @@ a:hover {
   color: red;
 }
 
-/*Apply styles to your table - display the header <th> elements in one color text, 
-and the body <td> elements in a different color. Add a border.*/
-
+*/Apply styles to your table - display the header <th> elements in one color text, 
+and the body <td> elements in a different color. Add a border.*
 <style>
 table {
   border-collapse: collapse;
