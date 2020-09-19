@@ -1,8 +1,14 @@
-﻿# Week-2---Css-intro--Fall-2020
-the HTML = Favorites.html - and images were pushed to this repository.
+Update> 
 
-FINAL VERSION WITHOUT css format = https://github.com/oscar-chiqui/Week-2---Css-intro--Fall-2020/blob/master/My%20favorite%20Things!.pdf 
+links : 
+https://github.com/oscar-chiqui/Week-2---Css-intro--Fall-2020/blob/master/favorites.html
+https://github.com/oscar-chiqui/Week-2---Css-intro--Fall-2020/blob/master/stylesheet.css
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Sorry ; I need to organize in folders and make descriptions to identify the photos and the html and css 
 
-HTML CODE - Quick Access link https://github.com/oscar-chiqui/Week-2---Css-intro--Fall-2020/blob/master/favorites.html
+the links above are the code,See the last modifed to download pictures or clone my repository if you prefer. I will submit the zip file on D2l . 
+
+ 
+ # Week-2---Css-intro--Fall-2020
+ 
+ 
